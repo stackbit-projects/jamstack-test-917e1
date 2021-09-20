@@ -72,5 +72,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://jamstack-test-917e1.netlify.app"
 }
